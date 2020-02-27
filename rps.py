@@ -1,3 +1,7 @@
+# Bryson Reese // 2-27-2020
+# Wrote this between 9:10AM and 9:53AM while in CS 326
+# Go Pack!
+
 import random
 
 userInput, cpuAnswer  = "", ""
